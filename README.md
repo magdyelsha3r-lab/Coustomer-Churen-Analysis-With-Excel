@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis Dashboard
+ء   ءءءءء# 📊 Customer Churn Analysis Dashboard
 
 This project provides an **interactive dashboard** for analyzing **Customer Churn** using data visualization tools such as **Excel / Tableau / Power BI**.
 
@@ -16,8 +16,9 @@ The dashboard helps businesses understand why customers churn and provides insig
 ---
 
 ## 📂 Repository Structure
+🖼️ Dashboard Preview
+<img width="1342" height="671" alt="Customer Churned Analysis" src="https://github.com/user-attachments/assets/174c3939-233c-48ee-87fa-531c585f9873" />
 
----
 
 ## 📈 Key Metrics
 - **Total Customers:** 6,687  
@@ -46,3 +47,4 @@ Open the dashboard file in your tool of choice (Excel / Tableau / Power BI).
 Explore the visuals and filter by churn category, gender, and data usage.
 
 🖼️ Dashboard PrevieAdd your dashboard screenshot in the images folder and make sure it’s named:
+images/churn_dashboard.png
